@@ -8,6 +8,9 @@ The user will get negative score of 5 marks on each wrong answer.
 
 The auto-submit feature allows users to submit their answers automatically once the timer runs out or when they complete all the questions. After submission, the system displays the exam score, and users can then logout of the system.
 
+#oasisinfobyte #javaprogramming 
+
+
 
 https://user-images.githubusercontent.com/91070190/227776147-fe86444b-6e1c-4424-9b1a-de96d37a5820.mp4
 
